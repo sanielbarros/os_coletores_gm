@@ -26,7 +26,7 @@ $config['app_version'] = '3.14.2';
 |
 */
 //$config['base_url'] = 'http://localhost/coletor/';
-$config['base_url'] = 'http://localhost/coletor/';
+$config['base_url'] = 'http://localhost/os_coletores_gm/';
 
 /*
 |--------------------------------------------------------------------------
